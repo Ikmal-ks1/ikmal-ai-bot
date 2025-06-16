@@ -4,4 +4,4 @@ Bot Telegram dengan fitur ChatGPT, dan avatar pribadi.
 
 ---
 
-🤖 **Ikmal AI Bot** - Powered by Telegram & OpenAI
+🤖 **Ikmal AI Bot** - Powered by Telegram & IkmalSaputra
